@@ -1,4 +1,4 @@
-package com.jinx
+package com.jinX
 
 import android.app.Application
 import android.content.res.Configuration

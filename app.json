@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.jinx"
+      "bundleIdentifier": "com.jinX"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.jinx"
+      "package": "com.jinX"
     },
     "web": {
       "bundler": "metro",

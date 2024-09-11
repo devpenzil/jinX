@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myapp</string>
-          <string>com.jinx</string>
+          <string>com.jinX</string>
         </array>
       </dict>
     </array>

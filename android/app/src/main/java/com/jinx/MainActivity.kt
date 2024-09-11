@@ -1,4 +1,4 @@
-package com.jinx
+package com.jinX
 
 import android.os.Build
 import android.os.Bundle
